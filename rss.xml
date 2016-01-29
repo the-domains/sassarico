@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sassarico]]></title>
+        <description><![CDATA[Sassarico]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 29 Jan 2016 19:18:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>We believe in building brands from strong ideas and honest roots. With that said, we ensure that each part of your brand — big and small — is essential, and ties into a flexible, harmonious, and enduring system that works for you and your audience.</p>]]></description>
+            <link>undefinedaa13fe9d-3a81-4fd8-ac98-516499bae223/index.html</link>
+            <guid isPermaLink="false">aa13fe9d-3a81-4fd8-ac98-516499bae223</guid>
+            <pubDate>Fri, 29 Jan 2016 19:18:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
