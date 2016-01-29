@@ -1,14 +1,28 @@
+name: Sassarico
+favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.7744681
+typography_spectrum: 0.71366
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  lightness: 0
-  brandStrength: 1
-  saturation: 0.4914894
-  rhythmicContrast: 0.8241871
   brandColors:
     - '#CA5441'
     - '#000000'
     - '#F1F1F2'
     - '#DEA399'
     - '#E7CAC6'
-name: Sassarico
+  brandStrength: 1
+  lightness: 0
+  saturation: 0.4914894
+  rhythmicContrast: 0.8241871
+purpose: []
